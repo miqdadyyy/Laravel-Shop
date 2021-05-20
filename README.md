@@ -29,10 +29,7 @@ Just a simple ecommerce app built with laravel
 | Cart                              | ✅      |
 | Product Detail                    | ✅      |
 | Stripe Payment                    | ✅      |
-| Paypal Payment                    | ❌      |
 | Stripe Webhook Success            | ✅      |
-| Stripe Webhook Failed             | ❌      |
-| Dashboard Oveview                 | ❌      |
 | List, Detail Transaction          | ✅      |
 | List, Detail Customer             | ✅      |
 | List, Add, Delete, Update Product | ✅      |
